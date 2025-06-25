@@ -3,8 +3,8 @@ AI-Powered Natural Language Data Base Assistance
 
 **Project Overview:**
 
--> Talk2DB is a natural language interface for SQL databases designed to simplify data access for non-technical users such as store owners and managers. 
--> The application allows users to query their data using plain English instead of SQL, and instantly receive answers, visualizations, and downloadable reports. It also enables data upload, preview, and automated chart generation—all within a streamlined interface.
+Talk2DB is a natural language interface for SQL databases designed to simplify data access for non-technical users such as store owners and managers. 
+The application allows users to query their data using plain English instead of SQL, and instantly receive answers, visualizations, and downloadable reports. It also enables data upload, preview, and automated chart generation—all within a streamlined interface.
 
 **Tech Stack:**
 
